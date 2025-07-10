@@ -43,7 +43,7 @@
 
 # Documentation
 
-👉 [Read the full documentation here](documentation.md)
+👉 [Read the full documentation here](Documentation.md)
 
 # License
 
