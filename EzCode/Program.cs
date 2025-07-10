@@ -7,7 +7,7 @@ class Program
     {
         if (args.Length == 0 || !File.Exists(args[0]) || !args[0].EndsWith(".ezc"))
         {
-            Console.WriteLine("⚠ Please execute the program with a .ezc file.");
+            Console.WriteLine("File not found (.ezc)");
             return;
         }
 
