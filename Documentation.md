@@ -14,7 +14,7 @@ A EZ interpreter for `.ezc` files, written in C#. This document describes how it
   - [minus](#minus)
   - [ask](#ask)
   - [say](#say)
-  - [if / endif](#if--endif)
+  - [if / endif](#-if--endif)
   - [while / endwhile](#while--endwhile)
   - [clean](#clean)
   - [stop](#stop)
